@@ -14,7 +14,7 @@ WordPress Nav Walker to implement multilevel Bootstrap 4.0.0-beta navbars.
 Easy installation with [Composer](https://getcomposer.org/).
 
 ````
-composer require BCcampus/wp-bootwalker
+composer require bccampus/wp-bootwalker
 ````
 
 ## Usage (Bootstrap 4)
