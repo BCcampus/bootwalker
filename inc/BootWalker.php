@@ -1,13 +1,13 @@
 <?php
 /**
- * Project: bootwalker
+ * Project: WP Bootwalker
  * Project Sponsor: BCcampus <https://bccampus.ca>
  * Copyright Brad Payne <https://bradpayne.ca>
  * Date: 2017-09-28
  * Licensed under MIT
  *
  * @author Brad Payne
- * @package bootwalker
+ * @package wp_bootwalker
  * @copyright Modifications from original (c) Brad Payne
  *
  * Modified from original wp-bootstrap-nav-walker v1.1.1
